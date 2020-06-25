@@ -49,6 +49,7 @@
         "file_name" : "aa.movielens.db.data::tags.csv"
       },
       "target_table" : "aa.movielens.db.data::tags"  
+      
     }    
   ]
 }
